@@ -19,3 +19,9 @@ Flip Coin creates a bucket from 0 to 12. Given n samples of 12 flips, 1000 exper
 
 # Branch 3: Risk-Preferences
 This model is aimed at assessing the degree of risk-averseness by looking at the choices an individual is predicted to make when choosing between lottery bundles, given human input for a list of questions that the model asks. The model creates a utility function for the user and that utility function then makes lottery choices between 2 lotteries. It is also tested with a predefined risk-averse utility function and risk taking utility function. This was created for a school project for grad class, but is not sophisticated enough to give very detailed estimates of risk-averseness. 
+
+# Branch 4: Clustering Algorithm
+I am currently working on creating a k-means clustering algorithm. The aim for this algorithm, and generally for a k-means clustering algorithm, is to define a number of clusters for data points in 1, 2, or 3 dimensions. Based on the distance of points from each other, the algorithm finds an optimal solution which minimizes variance between the points. This is relevant to machine learning and useful in real life applications such as geographica data (lat/long), analyzing data by clustering it and creating a model with the cluster as a parameter, etc. You can check out my current progress as I continue to work on this!
+
+# Future Projects
+My future projects in python revolve around automating data collection (things like webscraping which I have been playing around with), creating appealing and interactive visuals (pandas plotly, and mathplotlib), and machine learning.  
