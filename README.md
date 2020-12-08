@@ -1,6 +1,7 @@
 # Python_Projects
 Hi!
 This GitHub repository is mostly for employers who are interested in my programming abilities and future collaborators, but anyone is welcome. 
+
 My name is Peter Bishay, I am a recent economics master's graduate, and this is a repository for any past or current projects. I began programming in Python in January 2020 and fell in love with it and its applications in research/data analysis.
 
 My interest/focus in coding is to conduct data/statistical analysis more effectively.
