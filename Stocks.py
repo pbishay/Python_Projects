@@ -121,15 +121,7 @@ def profit(data,purchase):
     return profit
         
 print(f"Profit: ${profit(x,1)}")
-"""
-for i in range(len(x)):
-    print(x["Buy_Signal_Price"][i])
-print("___________________________________________________________________")
-    
-for i in range(len(x)):
-    print(x["Sell_Signal_Price"][i])
-"""           
-         
+
         
 
     
